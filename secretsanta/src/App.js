@@ -1,10 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
+import Header from './components/header/Header';
+import AddNewEmployee from './components/add-new-employee/AddNewEmployee';
 
 function App() {
   return (
-    <div>
+    <div style={{backgroundColor:"#F0F3F7"}}>
       <Header />
+      <AddNewEmployee />
     </div>
   );
 }

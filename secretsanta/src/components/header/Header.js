@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../assets/santa.png'
+import Logo from '../../assets/santa.png'
 import styles from './Style_Header';
 
 function Header() {
