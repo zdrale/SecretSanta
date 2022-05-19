@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import React from 'react';
+import Header from './components/Header';
 
 function App() {
-  console.log(React.version);
   return (
-    <div className="App">
-      asd
+    <div>
+      <Header />
     </div>
   );
 }
