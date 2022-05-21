@@ -8,7 +8,7 @@ const AddNewEmployeeStyle = {
        height:'1.4rem',
        borderRadius:'7px',
        border: 'none',
-       backgroundColor:'#F79783',
+       backgroundColor:'white',
        padding:'5%',
        marginTop:'10%',
        marginLeft:'20%',

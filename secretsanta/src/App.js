@@ -4,7 +4,7 @@ import AddNewEmployee from './components/add-new-employee/AddNewEmployee';
 
 function App() {
   return (
-    <div style={{backgroundColor:"#F0F3F7"}}>
+    <div>
       <Header />
       <AddNewEmployee />
     </div>
