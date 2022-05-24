@@ -1,8 +1,9 @@
 const EmployeeListStyle = {
     EmployeeListWrapper:{
-        width:"20%",
-        marginLeft:'40.5%',
-        marginTop:'1%',
+        width:"50%",
+        marginLeft:'30.5%',
+        marginTop:'4%',
+        textAlign:'center',
     },
 
     EmployeeItem: {
@@ -10,8 +11,8 @@ const EmployeeListStyle = {
         borderRadius:'4px',
         marginBottom:'1%',
         backgroundColor :"white",
-        height:'5vh',
-        color:'#FC4242'
+        color:'#FC4242',
+        padding:'10%',
     }
 
 };

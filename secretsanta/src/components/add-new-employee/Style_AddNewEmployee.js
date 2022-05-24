@@ -2,10 +2,10 @@ const AddNewEmployeeStyle = {
     newEmployeeWrapper:{
         display:'flex',
         justifyContent:'center',
+        flexDirection:'row',
     },
 
     newEmployeeInput: {
-       height:'1.4rem',
        borderRadius:'7px',
        border: 'none',
        backgroundColor:'white',
